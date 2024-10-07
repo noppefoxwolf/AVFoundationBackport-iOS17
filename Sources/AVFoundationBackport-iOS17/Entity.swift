@@ -9,7 +9,7 @@ extension AVAssetExportSession {
 
         case exporting(progress: Progress)
         
-        @available(iOS 18, *)
+        @available(iOS 18, macOS 15, *)
         init(_ state: AVAssetExportSession.State) {
             switch state {
             case .pending:
