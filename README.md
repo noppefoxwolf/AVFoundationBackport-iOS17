@@ -101,7 +101,7 @@ An enumeration representing the state of the export session.
 
 ## License
 
-[See LICENSE file for license information]
+MIT License
 
 ## Contributing
 
